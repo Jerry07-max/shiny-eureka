@@ -63,11 +63,7 @@
   a) _Installing libraries using Powershell_:
 
     **pip install requests**
-  
 
+  b) _Run the python script using Powershell_:
 
-
-
-
-
-
+    **python <script_name>.py** # <script_name> is the name of the python script attached in the repository.
