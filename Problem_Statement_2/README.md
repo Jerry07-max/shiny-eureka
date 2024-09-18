@@ -17,4 +17,11 @@
 
          python <script_name>.py
 
+ - For 2b) Ensure the 'access.log' file is available in the directory where the test script is located.
+
+ - Run the python script by running the following code in Powershell:
+
+         python <script_name>.py
+  
+  
    
