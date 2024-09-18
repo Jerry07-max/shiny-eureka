@@ -11,10 +11,10 @@
 
  - For 2a) Ensure the following library is installed by running the code in Windows Powershell:
 
-          **pip install psutil** 
+          pip install psutil
 
  - Run the python script by running the following code in Powershell:
 
-         **python <script_name>.py**
+         python <script_name>.py
 
    
